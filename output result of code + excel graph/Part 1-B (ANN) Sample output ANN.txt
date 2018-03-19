@@ -1,0 +1,1951 @@
+input: -90.67902238706995   output: -745625.0463621821
+input: -12.996766979424962   output: -2195.361266179122
+input: -59.151548600453836   output: -206965.69067031183
+input: 37.56036233520402   output: 52989.43872787387
+input: 57.4882322910708   output: 189992.67792305184
+input: 55.677491674176906   output: 172599.28207824068
+input: 14.389807750791022   output: 2979.648092253266
+input: 1.2434783372886216   output: 1.9227139239774576
+input: -17.596037620952302   output: -5448.094669319983
+input: -86.8356524766132   output: -654778.2059857153
+
+
+
+WeightsFromInput:0 [-3.232056878399173, -3.1561655944895763, -3.0698501068694304, 4.755884559951188, -3.1319438289642374]
+WeightsToOutput:0 [-3.532809197436003, -1.692416344830301, -3.51948312741295, 0.4960204873846621, 0.8500467564295455]
+
+WeightsFromInput:1 [4.530178676311534, 0.7617901779998633, -3.1669376271864316, 1.1417521717403005, -4.474202249104442]
+WeightsToOutput:1 [-0.9367068965801897, 3.3137477176935413, 1.5533601327653814, -1.7485528183035726, -3.1820277722001853]
+
+WeightsFromInput:2 [-4.3724478058942715, 3.1300651940533264, -0.4817158804771262, -2.253850581351018, -0.13689705252468354]
+WeightsToOutput:2 [4.330646176518439, 4.954088268085286, 1.9615064318408333, -1.3547755051286825, -4.241170675972805]
+
+WeightsFromInput:3 [3.600629643090972, -1.747601369984019, 2.2929685630681584, 0.24369393665364747, 0.7654775813242232]
+WeightsToOutput:3 [-2.871034151072319, -2.6017067628786386, 2.733569459430832, 0.006169212696548243, -4.790200520944614]
+
+WeightsFromInput:4 [-0.9272859693954985, -4.961289205431914, 0.09890972555736699, -4.165582279679412, 0.29604171396577605]
+WeightsToOutput:4 [2.5361926887676933, 0.9298262898042218, 1.4642154370075202, 2.4332369802113005, -2.4292810009604637]
+
+WeightsFromInput:5 [3.3507667389602585, 4.022263115519944, 3.659624915952717, 2.290461162984333, -1.536739842609518]
+WeightsToOutput:5 [-1.2291015707069795, -2.416774712450157, -1.369378934519733, 4.015088874155323, -3.6757239053804702]
+
+WeightsFromInput:6 [-2.191545502524972, 3.2779101938822706, 2.1699635644054327, -3.4957594224168265, 4.7511027206763785]
+WeightsToOutput:6 [1.6641113503638234, -4.625782611349262, -4.076127324087921, -4.342433058028854, -3.6873781911834946]
+
+WeightsFromInput:7 [3.2997901187026475, -4.896526100550331, 3.686084580758479, 1.9337618551514133, 3.903172053919251]
+WeightsToOutput:7 [-2.1498746183477757, -1.5609685046375574, 3.257366162567001, -0.9989363238328668, -1.9718131140916872]
+
+WeightsFromInput:8 [2.1210673973282743, 3.666917392644203, 2.6470384113499676, -0.3105343612888847, -3.1998116227637707]
+WeightsToOutput:8 [1.3536554517250652, -1.782219265810089, 3.6828829495201294, -3.8007955085458676, -2.111286052402396]
+
+WeightsFromInput:9 [-2.4091324926613886, 3.5646182532847153, 0.15993367589133278, -4.285311070615261, -0.1850334860133085]
+WeightsToOutput:9 [-0.4810803878526313, 4.905414819046994, 0.4497815349200005, 1.3781314800150053, -1.7843371275289757]
+
+
+
+performing 10 forward propagation for all 10 points (with different weights for each time)
+****************************SET of weights = 1*********************************** -----> 
+********************************** -----> 1
+hiddenNeuron1_Value: 293.079758032642
+hiddenNeuron2_Value: 286.1980106000202
+hiddenNeuron3_Value: 278.3710065657622
+hiddenNeuron4_Value: -431.25896248213405
+hiddenNeuron5_Value: 284.00160458169364
+hiddenNeuron1_Sigmoid: 1.0
+hiddenNeuron2_Sigmoid: 1.0
+hiddenNeuron3_Sigmoid: 1.0
+hiddenNeuron4_Sigmoid: 5.088764146294348E-188
+hiddenNeuron5_Sigmoid: 1.0
+output_Value: -7.894661913249708
+output_Sigmoid: 3.7258901893173275E-4
+output_Actual: -745625.0463621821
+ErrorRate[0]: -745625.0467347711
+
+
+********************************** -----> 2
+hiddenNeuron1_Value: 42.00629011280169
+hiddenNeuron2_Value: 41.01994878005928
+hiddenNeuron3_Value: 39.8981265007448
+hiddenNeuron4_Value: -61.81112340673061
+hiddenNeuron5_Value: 40.70514413769618
+hiddenNeuron1_Sigmoid: 1.0
+hiddenNeuron2_Sigmoid: 1.0
+hiddenNeuron3_Sigmoid: 1.0
+hiddenNeuron4_Sigmoid: 1.4314302283184407E-27
+hiddenNeuron5_Sigmoid: 1.0
+output_Value: -7.894661913249708
+output_Sigmoid: 3.7258901893173275E-4
+output_Actual: -2195.361266179122
+ErrorRate[1]: -2195.361638768141
+
+
+********************************** -----> 3
+hiddenNeuron1_Value: 191.1811695220598
+hiddenNeuron2_Value: 186.69208255353044
+hiddenNeuron3_Value: 181.5863877925955
+hiddenNeuron4_Value: -281.31793668610067
+hiddenNeuron5_Value: 185.25932761286955
+hiddenNeuron1_Sigmoid: 1.0
+hiddenNeuron2_Sigmoid: 1.0
+hiddenNeuron3_Sigmoid: 1.0
+hiddenNeuron4_Sigmoid: 6.686093365086227E-123
+hiddenNeuron5_Sigmoid: 1.0
+output_Value: -7.894661913249708
+output_Sigmoid: 3.7258901893173275E-4
+output_Actual: -206965.69067031183
+ErrorRate[2]: -206965.69104290084
+
+
+********************************** -----> 4
+hiddenNeuron1_Value: -121.39722744066137
+hiddenNeuron2_Value: -118.54672331893309
+hiddenNeuron3_Value: -115.30468232878059
+hiddenNeuron4_Value: 178.63274729616893
+hiddenNeuron5_Value: -117.636945029403
+hiddenNeuron1_Sigmoid: 1.8960684168590517E-53
+hiddenNeuron2_Sigmoid: 3.2795345825283294E-52
+hiddenNeuron3_Sigmoid: 8.390980793256397E-51
+hiddenNeuron4_Sigmoid: 1.0
+hiddenNeuron5_Sigmoid: 8.145615493935242E-52
+output_Value: 0.4960204873846621
+output_Sigmoid: 0.6215236762279988
+output_Actual: 52989.43872787387
+ErrorRate[3]: 52988.81720419764
+
+
+********************************** -----> 5
+hiddenNeuron1_Value: -185.80523660336482
+hiddenNeuron2_Value: -181.44238084510235
+hiddenNeuron3_Value: -176.48025604247835
+hiddenNeuron4_Value: 273.4073963319909
+hiddenNeuron5_Value: -180.0499143620818
+hiddenNeuron1_Sigmoid: 2.0221391356842335E-81
+hiddenNeuron2_Sigmoid: 1.586993747046636E-79
+hiddenNeuron3_Sigmoid: 2.267768068484095E-77
+hiddenNeuron4_Sigmoid: 1.0
+hiddenNeuron5_Sigmoid: 6.387276626119487E-79
+output_Value: 0.4960204873846621
+output_Sigmoid: 0.6215236762279988
+output_Actual: 189992.67792305184
+ErrorRate[4]: 189992.0563993756
+
+
+********************************** -----> 6
+hiddenNeuron1_Value: -179.95281993753616
+hiddenNeuron2_Value: -175.727383609517
+hiddenNeuron3_Value: -170.9215537661938
+hiddenNeuron4_Value: 264.79572299002876
+hiddenNeuron5_Value: -174.37877646114606
+hiddenNeuron1_Sigmoid: 7.038551590335826E-79
+hiddenNeuron2_Sigmoid: 4.814675026270942E-77
+hiddenNeuron3_Sigmoid: 5.884537855251841E-75
+hiddenNeuron4_Sigmoid: 1.0
+hiddenNeuron5_Sigmoid: 1.854639998621854E-76
+output_Value: 0.4960204873846621
+output_Sigmoid: 0.6215236762279988
+output_Actual: 172599.28207824068
+ErrorRate[5]: 172598.66055456444
+
+
+********************************** -----> 7
+hiddenNeuron1_Value: -46.50867711978585
+hiddenNeuron2_Value: -45.41661613436606
+hiddenNeuron3_Value: -44.174552861596375
+hiddenNeuron4_Value: 68.43626450265295
+hiddenNeuron5_Value: -45.06806958507169
+hiddenNeuron1_Sigmoid: 6.33196005198344E-21
+hiddenNeuron2_Sigmoid: 1.8871839143372933E-20
+hiddenNeuron3_Sigmoid: 6.534847417427922E-20
+hiddenNeuron4_Sigmoid: 1.0
+hiddenNeuron5_Sigmoid: 2.6741518771631912E-20
+output_Value: 0.4960204873846621
+output_Sigmoid: 0.6215236762279988
+output_Actual: 2979.648092253266
+ErrorRate[6]: 2979.026568577038
+
+
+********************************** -----> 8
+hiddenNeuron1_Value: -4.018992713174057
+hiddenNeuron2_Value: -3.924623545643452
+hiddenNeuron3_Value: -3.8172921066152963
+hiddenNeuron4_Value: 5.91383942494473
+hiddenNeuron5_Value: -3.8945043049218087
+hiddenNeuron1_Sigmoid: 0.01765380036798327
+hiddenNeuron2_Sigmoid: 0.019367078800050574
+hiddenNeuron3_Sigmoid: 0.021514220753863257
+hiddenNeuron4_Sigmoid: 0.9973054864053637
+hiddenNeuron5_Sigmoid: 0.01994746118501905
+output_Value: 0.34077662215232407
+output_Sigmoid: 0.5843791613979221
+output_Actual: 1.9227139239774576
+ErrorRate[7]: 1.3383347625795354
+
+
+********************************** -----> 9
+hiddenNeuron1_Value: 56.87139442536951
+hiddenNeuron2_Value: 55.536008538593876
+hiddenNeuron3_Value: 54.01719797115894
+hiddenNeuron4_Value: -83.68472363780728
+hiddenNeuron5_Value: 55.10980144116412
+hiddenNeuron1_Sigmoid: 1.0
+hiddenNeuron2_Sigmoid: 1.0
+hiddenNeuron3_Sigmoid: 1.0
+hiddenNeuron4_Sigmoid: 4.530919064772132E-37
+hiddenNeuron5_Sigmoid: 1.0
+output_Value: -7.894661913249708
+output_Sigmoid: 3.7258901893173275E-4
+output_Actual: -5448.094669319983
+ErrorRate[8]: -5448.095041909002
+
+
+********************************** -----> 10
+hiddenNeuron1_Value: 280.6577678773179
+hiddenNeuron2_Value: 274.06769872174016
+hiddenNeuron3_Value: 266.57243703540775
+hiddenNeuron4_Value: -412.98033886681185
+hiddenNeuron5_Value: 271.96438590821185
+hiddenNeuron1_Sigmoid: 1.0
+hiddenNeuron2_Sigmoid: 1.0
+hiddenNeuron3_Sigmoid: 1.0
+hiddenNeuron4_Sigmoid: 4.414867720018681E-180
+hiddenNeuron5_Sigmoid: 1.0
+output_Value: -7.894661913249708
+output_Sigmoid: 3.7258901893173275E-4
+output_Actual: -654778.2059857153
+ErrorRate[9]: -654778.2063583042
+
+
+MSE for last weighs = -1196452.501755176
+****************************SET of weights = 2*********************************** -----> 
+********************************** -----> 1
+hiddenNeuron1_Value: -410.79217360668054
+hiddenNeuron2_Value: -69.0783886050996
+hiddenNeuron3_Value: 287.1748079940926
+hiddenNeuron4_Value: -103.53297074172444
+hiddenNeuron5_Value: 405.71628591082043
+hiddenNeuron1_Sigmoid: 3.9375473884989434E-179
+hiddenNeuron2_Sigmoid: 9.991645339180648E-31
+hiddenNeuron3_Sigmoid: 1.0
+hiddenNeuron4_Sigmoid: 1.0869313416705408E-45
+hiddenNeuron5_Sigmoid: 1.0
+output_Value: -1.6286676394348039
+output_Sigmoid: 0.16401296302267854
+output_Actual: -745625.0463621821
+ErrorRate[0]: -745625.2103751452
+
+
+********************************** -----> 2
+hiddenNeuron1_Value: -58.877676631180826
+hiddenNeuron2_Value: -9.900809430678887
+hiddenNeuron3_Value: 41.159950378915056
+hiddenNeuron4_Value: -14.839086924361077
+hiddenNeuron5_Value: 58.15016405042951
+hiddenNeuron1_Sigmoid: 2.689985455345481E-26
+hiddenNeuron2_Sigmoid: 5.013157226092324E-5
+hiddenNeuron3_Sigmoid: 1.0
+hiddenNeuron4_Sigmoid: 3.593074947737453E-7
+hiddenNeuron5_Sigmoid: 1.0
+output_Value: -1.6285021443197725
+output_Sigmoid: 0.16403565576831544
+output_Actual: -2195.361266179122
+ErrorRate[1]: -2195.5253018348903
+
+
+********************************** -----> 3
+hiddenNeuron1_Value: -267.96708414058133
+hiddenNeuron2_Value: -45.06106873730729
+hiddenNeuron3_Value: 187.32926496912415
+hiddenNeuron4_Value: -67.5364090763701
+hiddenNeuron5_Value: 264.6559917861613
+hiddenNeuron1_Sigmoid: 4.2012064738674075E-117
+hiddenNeuron2_Sigmoid: 2.6929388931413383E-20
+hiddenNeuron3_Sigmoid: 1.0
+hiddenNeuron4_Sigmoid: 4.6699282776188255E-30
+hiddenNeuron5_Sigmoid: 1.0
+output_Value: -1.6286676394348039
+output_Sigmoid: 0.16401296302267854
+output_Actual: -206965.69067031183
+ErrorRate[2]: -206965.85468327484
+
+
+********************************** -----> 4
+hiddenNeuron1_Value: 170.15515252547615
+hiddenNeuron2_Value: 28.61311510907443
+hiddenNeuron3_Value: -118.95132477011363
+hiddenNeuron4_Value: 42.88462526757177
+hiddenNeuron5_Value: -168.05265763734758
+hiddenNeuron1_Sigmoid: 1.0
+hiddenNeuron2_Sigmoid: 0.9999999999996254
+hiddenNeuron3_Sigmoid: 2.188245465833281E-52
+hiddenNeuron4_Sigmoid: 1.0
+hiddenNeuron5_Sigmoid: 1.0367119841873627E-73
+output_Value: 0.6284880028085378
+output_Sigmoid: 0.6521465424206243
+output_Actual: 52989.43872787387
+ErrorRate[3]: 52988.78658133145
+
+
+********************************** -----> 5
+hiddenNeuron1_Value: 260.4319640638531
+hiddenNeuron2_Value: 43.793970709912315
+hiddenNeuron3_Value: -182.06164596302617
+hiddenNeuron4_Value: 65.63731406784096
+hiddenNeuron5_Value: -257.21397821374757
+hiddenNeuron1_Sigmoid: 1.0
+hiddenNeuron2_Sigmoid: 1.0
+hiddenNeuron3_Sigmoid: 8.543420687565982E-80
+hiddenNeuron4_Sigmoid: 1.0
+hiddenNeuron5_Sigmoid: 1.9651178175913431E-112
+output_Value: 0.628488002809779
+output_Sigmoid: 0.6521465424209059
+output_Actual: 189992.67792305184
+ErrorRate[4]: 189992.02577650943
+
+
+********************************** -----> 6
+hiddenNeuron1_Value: 252.2289855328692
+hiddenNeuron2_Value: 42.41456629305713
+hiddenNeuron3_Value: -176.3271433703101
+hiddenNeuron4_Value: 63.56989703604398
+hiddenNeuron5_Value: -249.11235847309615
+hiddenNeuron1_Sigmoid: 1.0
+hiddenNeuron2_Sigmoid: 1.0
+hiddenNeuron3_Sigmoid: 2.642984550677476E-77
+hiddenNeuron4_Sigmoid: 1.0
+hiddenNeuron5_Sigmoid: 6.48451264129336E-109
+output_Value: 0.628488002809779
+output_Sigmoid: 0.6521465424209059
+output_Actual: 172599.28207824068
+ErrorRate[5]: 172598.62993169826
+
+
+********************************** -----> 7
+hiddenNeuron1_Value: 65.18840022885593
+hiddenNeuron2_Value: 10.962014207858905
+hiddenNeuron3_Value: -45.57162361395904
+hiddenNeuron4_Value: 16.42959425039106
+hiddenNeuron5_Value: -64.38291020276972
+hiddenNeuron1_Sigmoid: 1.0
+hiddenNeuron2_Sigmoid: 0.9999826519691907
+hiddenNeuron3_Sigmoid: 1.616200858371588E-20
+hiddenNeuron4_Sigmoid: 0.9999999267651416
+hiddenNeuron5_Sigmoid: 1.0935971507775954E-28
+output_Value: 0.6284306438672962
+output_Sigmoid: 0.6521335303492493
+output_Actual: 2979.648092253266
+ErrorRate[6]: 2978.995958722917
+
+
+********************************** -----> 8
+hiddenNeuron1_Value: 5.633179048040235
+hiddenNeuron2_Value: 0.947269583902073
+hiddenNeuron3_Value: -3.938018334950556
+hiddenNeuron4_Value: 1.4197440921113016
+hiddenNeuron5_Value: -5.5635735734094025
+hiddenNeuron1_Sigmoid: 0.9964355654540007
+hiddenNeuron2_Sigmoid: 0.720565737913469
+hiddenNeuron3_Sigmoid: 0.019114316087395007
+hiddenNeuron4_Sigmoid: 0.8052982949901842
+hiddenNeuron5_Sigmoid: 0.003820395661484082
+output_Value: 0.06383321149982855
+output_Sigmoid: 0.5159528863353581
+output_Actual: 1.9227139239774576
+ErrorRate[7]: 1.4067610376420996
+
+
+********************************** -----> 9
+hiddenNeuron1_Value: -79.71319441801366
+hiddenNeuron2_Value: -13.404488631357545
+hiddenNeuron3_Value: 55.72555363118187
+hiddenNeuron4_Value: -20.09031416774632
+hiddenNeuron5_Value: 78.72823109899116
+hiddenNeuron1_Sigmoid: 2.4043601945139001E-35
+hiddenNeuron2_Sigmoid: 1.5083561542358388E-6
+hiddenNeuron3_Sigmoid: 1.0
+hiddenNeuron4_Sigmoid: 1.8831608482892687E-9
+hiddenNeuron5_Sigmoid: 1.0
+output_Value: -1.6286626444158465
+output_Sigmoid: 0.16401364790441858
+output_Actual: -5448.094669319983
+ErrorRate[8]: -5448.258682967888
+
+
+********************************** -----> 10
+hiddenNeuron1_Value: -393.381021193152
+hiddenNeuron2_Value: -66.15054715689344
+hiddenNeuron3_Value: 275.003095209471
+hiddenNeuron4_Value: -99.14479479965914
+hiddenNeuron5_Value: 388.5202716133145
+hiddenNeuron1_Sigmoid: 1.4348060866552718E-171
+hiddenNeuron2_Sigmoid: 1.867163697099824E-29
+hiddenNeuron3_Sigmoid: 1.0
+hiddenNeuron4_Sigmoid: 8.749086475147463E-44
+hiddenNeuron5_Sigmoid: 1.0
+output_Value: -1.6286676394348039
+output_Sigmoid: 0.16401296302267854
+output_Actual: -654778.2059857153
+ErrorRate[9]: -654778.3699986783
+
+
+MSE for last weighs = -1196453.3740326015
+****************************SET of weights = 3*********************************** -----> 
+********************************** -----> 1
+hiddenNeuron1_Value: 396.4892924769815
+hiddenNeuron2_Value: -283.83125180455005
+hiddenNeuron3_Value: 43.68152510999244
+hiddenNeuron4_Value: 204.37696732343957
+hiddenNeuron5_Value: 12.413690890609669
+hiddenNeuron1_Sigmoid: 1.0
+hiddenNeuron2_Sigmoid: 5.415686916056177E-124
+hiddenNeuron3_Sigmoid: 1.0
+hiddenNeuron4_Sigmoid: 1.0
+hiddenNeuron5_Sigmoid: 0.9999959374307048
+output_Value: 0.6962236573075486
+output_Sigmoid: 0.6673499772623296
+output_Actual: -745625.0463621821
+ErrorRate[0]: -745625.7137121594
+
+
+********************************** -----> 2
+hiddenNeuron1_Value: 56.827685262905796
+hiddenNeuron2_Value: -40.68072795751966
+hiddenNeuron3_Value: 6.2607490488497355
+hiddenNeuron4_Value: 29.292770812260663
+hiddenNeuron5_Value: 1.7792190918334116
+hiddenNeuron1_Sigmoid: 1.0
+hiddenNeuron2_Sigmoid: 2.1507222508881726E-18
+hiddenNeuron3_Sigmoid: 0.9980938257234763
+hiddenNeuron4_Sigmoid: 0.9999999999998102
+hiddenNeuron5_Sigmoid: 0.8556004127858798
+output_Value: 1.3048907490695352
+output_Sigmoid: 0.7866569374150244
+output_Actual: -2195.361266179122
+ErrorRate[1]: -2196.147923116537
+
+
+********************************** -----> 3
+hiddenNeuron1_Value: 258.63705889330276
+hiddenNeuron2_Value: -185.1482034486343
+hiddenNeuron3_Value: 28.494240315653144
+hiddenNeuron4_Value: 133.31875220094588
+hiddenNeuron5_Value: 8.0976726556727
+hiddenNeuron1_Sigmoid: 1.0
+hiddenNeuron2_Sigmoid: 3.9008289580029035E-81
+hiddenNeuron3_Sigmoid: 0.9999999999995781
+hiddenNeuron4_Sigmoid: 1.0
+hiddenNeuron5_Sigmoid: 0.9996958461368455
+output_Value: 0.6974963957023519
+output_Sigmoid: 0.6676324573262601
+output_Actual: -206965.69067031183
+ErrorRate[2]: -206966.35830276916
+
+
+********************************** -----> 4
+hiddenNeuron1_Value: -164.23072388115665
+hiddenNeuron2_Value: 117.56638282145362
+hiddenNeuron3_Value: -18.093423013342694
+hiddenNeuron4_Value: -84.65544448495446
+hiddenNeuron5_Value: -5.1419028954485695
+hiddenNeuron1_Sigmoid: 4.736994270474227E-72
+hiddenNeuron2_Sigmoid: 1.0
+hiddenNeuron3_Sigmoid: 1.3871589251915597E-8
+hiddenNeuron4_Sigmoid: 1.7163568874741822E-37
+hiddenNeuron5_Sigmoid: 0.00581257023663568
+output_Value: 4.929436192854846
+output_Sigmoid: 0.9928213271750759
+output_Actual: 52989.43872787387
+ErrorRate[3]: 52988.445906546694
+
+
+********************************** -----> 5
+hiddenNeuron1_Value: -251.36429514583273
+hiddenNeuron2_Value: 179.94191496193324
+hiddenNeuron3_Value: -27.692994435166728
+hiddenNeuron4_Value: -129.5698857700723
+hiddenNeuron5_Value: -7.869969555501927
+hiddenNeuron1_Sigmoid: 6.821402415671897E-110
+hiddenNeuron2_Sigmoid: 1.0
+hiddenNeuron3_Sigmoid: 9.399079639161851E-13
+hiddenNeuron4_Sigmoid: 5.351969000034112E-57
+hiddenNeuron5_Sigmoid: 3.819000898223724E-4
+output_Value: 4.952468564625024
+output_Sigmoid: 0.9929836326223959
+output_Actual: 189992.67792305184
+ErrorRate[4]: 189991.6849394192
+
+
+********************************** -----> 6
+hiddenNeuron1_Value: -243.4469263084514
+hiddenNeuron2_Value: 174.274178781535
+hiddenNeuron3_Value: -26.820731924583992
+hiddenNeuron4_Value: -125.48874697801008
+hiddenNeuron5_Value: -7.622084502162426
+hiddenNeuron1_Sigmoid: 1.8721613188041663E-106
+hiddenNeuron2_Sigmoid: 1.0
+hiddenNeuron3_Sigmoid: 2.2485581562116946E-12
+hiddenNeuron4_Sigmoid: 3.1690540507780635E-55
+hiddenNeuron5_Sigmoid: 4.892808476668614E-4
+output_Value: 4.952013144506257
+output_Sigmoid: 0.9929804589351113
+output_Actual: 172599.28207824068
+ErrorRate[5]: 172598.28909778173
+
+
+********************************** -----> 7
+hiddenNeuron1_Value: -62.918683327186585
+hiddenNeuron2_Value: 45.04103638986976
+hiddenNeuron3_Value: -6.931798910568872
+hiddenNeuron4_Value: -32.432476564649726
+hiddenNeuron5_Value: -1.9699222674801367
+hiddenNeuron1_Sigmoid: 4.728931491402113E-28
+hiddenNeuron2_Sigmoid: 1.0
+hiddenNeuron3_Sigmoid: 9.752909926770126E-4
+hiddenNeuron4_Sigmoid: 8.217777786638584E-15
+hiddenNeuron5_Sigmoid: 0.12239723630620565
+output_Value: 4.436893738198334
+output_Sigmoid: 0.9883057372032038
+output_Actual: 2979.648092253266
+ErrorRate[6]: 2978.659786516063
+
+
+********************************** -----> 8
+hiddenNeuron1_Value: -5.437044127554691
+hiddenNeuron2_Value: 3.892168263106417
+hiddenNeuron3_Value: -0.5990032621012212
+hiddenNeuron4_Value: -2.802614373395357
+hiddenNeuron5_Value: -0.17022851925310659
+hiddenNeuron1_Sigmoid: 0.004333468524264576
+hiddenNeuron2_Sigmoid: 0.9800068189749217
+hiddenNeuron3_Sigmoid: 0.35457176479004365
+hiddenNeuron4_Sigmoid: 0.057183063481896994
+hiddenNeuron5_Sigmoid: 0.45754534074501896
+output_Value: 3.5513037047984843
+output_Sigmoid: 0.9721127907795543
+output_Actual: 1.9227139239774576
+ErrorRate[7]: 0.9506011331979033
+
+
+********************************** -----> 9
+hiddenNeuron1_Value: 76.93775608816595
+hiddenNeuron2_Value: -55.0767449105957
+hiddenNeuron3_Value: 8.476290755485675
+hiddenNeuron4_Value: 39.65883962145773
+hiddenNeuron5_Value: 2.408845686421815
+hiddenNeuron1_Sigmoid: 1.0
+hiddenNeuron2_Sigmoid: 1.2035762357395387E-24
+hiddenNeuron3_Sigmoid: 0.9997916933080839
+hiddenNeuron4_Sigmoid: 1.0
+hiddenNeuron5_Sigmoid: 0.9174993490188266
+output_Value: 1.0456971740318157
+output_Sigmoid: 0.7399477828659137
+output_Actual: -5448.094669319983
+ErrorRate[8]: -5448.834617102849
+
+
+********************************** -----> 10
+hiddenNeuron1_Value: 379.6843581447649
+hiddenNeuron2_Value: -271.8012534199575
+hiddenNeuron3_Value: 41.83011278957748
+hiddenNeuron4_Value: 195.71458581640962
+hiddenNeuron5_Value: 11.887544878106084
+hiddenNeuron1_Sigmoid: 1.0
+hiddenNeuron2_Sigmoid: 9.082710364223386E-119
+hiddenNeuron3_Sigmoid: 1.0
+hiddenNeuron4_Sigmoid: 1.0
+hiddenNeuron5_Sigmoid: 0.999993124538254
+output_Value: 0.6962355872645256
+output_Sigmoid: 0.6673526256357337
+output_Actual: -654778.2059857153
+ErrorRate[9]: -654778.8733383409
+
+
+MSE for last weighs = -1196457.8975620922
+****************************SET of weights = 4*********************************** -----> 
+********************************** -----> 1
+hiddenNeuron1_Value: -326.50157601339396
+hiddenNeuron2_Value: 158.47078375245496
+hiddenNeuron3_Value: -207.92414766330515
+hiddenNeuron4_Value: -22.097927937409306
+hiddenNeuron5_Value: -69.41275873369939
+hiddenNeuron1_Sigmoid: 1.5928218501686375E-142
+hiddenNeuron2_Sigmoid: 1.0
+hiddenNeuron3_Sigmoid: 5.008296308864474E-91
+hiddenNeuron4_Sigmoid: 2.52925044558905E-10
+hiddenNeuron5_Sigmoid: 7.151907820216965E-31
+output_Value: -2.601706762877078
+output_Sigmoid: 0.06902865673193255
+output_Actual: -745625.0463621821
+ErrorRate[0]: -745625.1153908388
+
+
+********************************** -----> 2
+hiddenNeuron1_Value: -46.79654445046343
+hiddenNeuron2_Value: 22.713167778606124
+hiddenNeuron3_Value: -29.801178105343745
+hiddenNeuron4_Value: -3.1672333089862037
+hiddenNeuron5_Value: -9.948733752444749
+hiddenNeuron1_Sigmoid: 4.7480903347125355E-21
+hiddenNeuron2_Sigmoid: 0.9999999998632911
+hiddenNeuron3_Sigmoid: 1.1415969364043496E-13
+hiddenNeuron4_Sigmoid: 0.040417582437412836
+hiddenNeuron5_Sigmoid: 4.778582362152029E-5
+output_Value: -2.6016863215371187
+output_Sigmoid: 0.0690299703796702
+output_Actual: -2195.361266179122
+ErrorRate[1]: -2195.430296149502
+
+
+********************************** -----> 3
+hiddenNeuron1_Value: -212.9828193255304
+hiddenNeuron2_Value: 103.3733273708294
+hiddenNeuron3_Value: -135.63264139763896
+hiddenNeuron4_Value: -14.414873737604147
+hiddenNeuron5_Value: -45.27918435425764
+hiddenNeuron1_Sigmoid: 3.182268549858592E-93
+hiddenNeuron2_Sigmoid: 1.0
+hiddenNeuron3_Sigmoid: 1.245926075324067E-59
+hiddenNeuron4_Sigmoid: 5.49160940246071E-7
+hiddenNeuron5_Sigmoid: 2.1652103273413793E-20
+output_Value: -2.6017067594907477
+output_Sigmoid: 0.06902865694955067
+output_Actual: -206965.69067031183
+ErrorRate[2]: -206965.7596989688
+
+
+********************************** -----> 4
+hiddenNeuron1_Value: 135.24095402937323
+hiddenNeuron2_Value: -65.64054067409869
+hiddenNeuron3_Value: 86.12473005207214
+hiddenNeuron4_Value: 9.153232559603255
+hiddenNeuron5_Value: 28.751615314013424
+hiddenNeuron1_Sigmoid: 1.0
+hiddenNeuron2_Sigmoid: 3.109391421783993E-29
+hiddenNeuron3_Sigmoid: 1.0
+hiddenNeuron4_Sigmoid: 0.999894134213477
+hiddenNeuron5_Sigmoid: 0.9999999999996738
+output_Value: -4.921496652996545
+output_Sigmoid: 0.0072354810121281745
+output_Actual: 52989.43872787387
+ErrorRate[3]: 52989.43149239286
+
+
+********************************** -----> 5
+hiddenNeuron1_Value: 206.99383331612916
+hiddenNeuron2_Value: -100.46651350983485
+hiddenNeuron3_Value: 131.8187093897851
+hiddenNeuron4_Value: 14.009533638270378
+hiddenNeuron5_Value: 44.00595300877398
+hiddenNeuron1_Sigmoid: 1.0
+hiddenNeuron2_Sigmoid: 2.333176355484576E-44
+hiddenNeuron3_Sigmoid: 1.0
+hiddenNeuron4_Sigmoid: 0.9999991763617841
+hiddenNeuron5_Sigmoid: 1.0
+output_Value: -4.921496004970752
+output_Sigmoid: 0.007235485666982416
+output_Actual: 189992.67792305184
+ErrorRate[4]: 189992.6706875662
+
+
+********************************** -----> 6
+hiddenNeuron1_Value: 200.47402697499217
+hiddenNeuron2_Value: -97.30206072706537
+hiddenNeuron3_Value: 127.66673807937677
+hiddenNeuron4_Value: 13.568267129080851
+hiddenNeuron5_Value: 42.61987166094851
+hiddenNeuron1_Sigmoid: 1.0
+hiddenNeuron2_Sigmoid: 5.5239781036341175E-43
+hiddenNeuron3_Sigmoid: 1.0
+hiddenNeuron4_Sigmoid: 0.9999987195108565
+hiddenNeuron5_Sigmoid: 1.0
+output_Value: -4.9214960077891625
+output_Sigmoid: 0.007235485646737398
+output_Actual: 172599.28207824068
+ErrorRate[5]: 172599.27484275503
+
+
+********************************** -----> 7
+hiddenNeuron1_Value: 51.81236834587838
+hiddenNeuron2_Value: -25.147647739089045
+hiddenNeuron3_Value: 32.995376801158336
+hiddenNeuron4_Value: 3.506708898479433
+hiddenNeuron5_Value: 11.015075232796072
+hiddenNeuron1_Sigmoid: 1.0
+hiddenNeuron2_Sigmoid: 1.1981614822823637E-11
+hiddenNeuron3_Sigmoid: 0.9999999999999953
+hiddenNeuron4_Sigmoid: 0.9708780560964285
+hiddenNeuron5_Sigmoid: 0.9999835484635593
+output_Value: -4.9215968532283885
+output_Sigmoid: 0.007234761296491032
+output_Actual: 2979.648092253266
+ErrorRate[6]: 2979.6408574919697
+
+
+********************************** -----> 8
+hiddenNeuron1_Value: 4.477304961782885
+hiddenNeuron2_Value: -2.173104445791045
+hiddenNeuron3_Value: 2.8512567362590735
+hiddenNeuron4_Value: 0.30302813115739624
+hiddenNeuron5_Value: 0.9518547900567607
+hiddenNeuron1_Sigmoid: 0.988763691064155
+hiddenNeuron2_Sigmoid: 0.1021918526853277
+hiddenNeuron3_Sigmoid: 0.9453836087340731
+hiddenNeuron4_Sigmoid: 0.5751826012453578
+hiddenNeuron5_Sigmoid: 0.7214880382611926
+output_Value: -3.9728997512736894
+output_Sigmoid: 0.01847117901510456
+output_Actual: 1.9227139239774576
+ErrorRate[7]: 1.904242744962353
+
+
+********************************** -----> 9
+hiddenNeuron1_Value: -63.356814658944806
+hiddenNeuron2_Value: 30.75085945266658
+hiddenNeuron3_Value: -40.347161099408254
+hiddenNeuron4_Value: -4.288047677355548
+hiddenNeuron5_Value: -13.469372318976607
+hiddenNeuron1_Sigmoid: 3.05130065777172E-28
+hiddenNeuron2_Sigmoid: 0.9999999999999558
+hiddenNeuron3_Sigmoid: 3.002275720163499E-18
+hiddenNeuron4_Sigmoid: 0.013545702242887718
+hiddenNeuron5_Sigmoid: 1.4135960184136238E-6
+output_Value: -2.601629967968647
+output_Sigmoid: 0.06903359202032579
+output_Actual: -5448.094669319983
+ErrorRate[8]: -5448.163702912003
+
+
+********************************** -----> 10
+hiddenNeuron1_Value: -312.6630243844395
+hiddenNeuron2_Value: 151.7541052315854
+hiddenNeuron3_Value: -199.11142128238575
+hiddenNeuron4_Value: -21.161321993913923
+hiddenNeuron5_Value: -66.47074523050867
+hiddenNeuron1_Sigmoid: 1.6299482449509323E-136
+hiddenNeuron2_Sigmoid: 1.0
+hiddenNeuron3_Sigmoid: 3.365181193301603E-87
+hiddenNeuron4_Sigmoid: 6.452895439194066E-10
+hiddenNeuron5_Sigmoid: 1.3555705913468485E-29
+output_Value: -2.6017067628746577
+output_Sigmoid: 0.06902865673208808
+output_Actual: -654778.2059857153
+ErrorRate[9]: -654778.275014372
+
+
+MSE for last weighs = -1196449.8219802899
+****************************SET of weights = 5*********************************** -----> 
+********************************** -----> 1
+hiddenNeuron1_Value: 84.08538517803026
+hiddenNeuron2_Value: 449.884854928089
+hiddenNeuron3_Value: -8.969037218115426
+hiddenNeuron4_Value: 377.73092879423126
+hiddenNeuron5_Value: -26.844773208209165
+hiddenNeuron1_Sigmoid: 1.0
+hiddenNeuron2_Sigmoid: 1.0
+hiddenNeuron3_Sigmoid: 1.2727448548865473E-4
+hiddenNeuron4_Sigmoid: 1.0
+hiddenNeuron5_Sigmoid: 2.1951445700728955E-12
+output_Value: 5.899442316044272
+output_Sigmoid: 0.9972665194072018
+output_Actual: -745625.0463621821
+ErrorRate[0]: -745626.0436287015
+
+
+********************************** -----> 2
+hiddenNeuron1_Value: 12.05171966752348
+hiddenNeuron2_Value: 64.480719720535
+hiddenNeuron3_Value: -1.2855066550679726
+hiddenNeuron4_Value: 54.139102222615136
+hiddenNeuron5_Value: -3.8475851726027677
+hiddenNeuron1_Sigmoid: 0.9999941655205159
+hiddenNeuron2_Sigmoid: 1.0
+hiddenNeuron3_Sigmoid: 0.21661432707104133
+hiddenNeuron4_Sigmoid: 1.0
+hiddenNeuron5_Sigmoid: 0.020885669338770396
+output_Value: 6.165674043276403
+output_Sigmoid: 0.9979040998309298
+output_Actual: -2195.361266179122
+ErrorRate[1]: -2196.359170278953
+
+
+********************************** -----> 3
+hiddenNeuron1_Value: 54.850401085216774
+hiddenNeuron2_Value: 293.4679395560129
+hiddenNeuron3_Value: -5.850663438364144
+hiddenNeuron4_Value: 246.40064266564602
+hiddenNeuron5_Value: -17.511325831408257
+hiddenNeuron1_Sigmoid: 1.0
+hiddenNeuron2_Sigmoid: 1.0
+hiddenNeuron3_Sigmoid: 0.002869730104035727
+hiddenNeuron4_Sigmoid: 1.0
+hiddenNeuron5_Sigmoid: 2.482720383242293E-8
+output_Value: 5.903457801589335
+output_Sigmoid: 0.9972774438274431
+output_Actual: -206965.69067031183
+ErrorRate[2]: -206966.68794775565
+
+
+********************************** -----> 4
+hiddenNeuron1_Value: -34.82919699884582
+hiddenNeuron2_Value: -186.34782020575915
+hiddenNeuron3_Value: 3.7150851304102934
+hiddenNeuron4_Value: -156.46077976186388
+hiddenNeuron5_Value: 11.119434042889376
+hiddenNeuron1_Sigmoid: 7.479489111550256E-16
+hiddenNeuron2_Sigmoid: 1.1753574648797938E-81
+hiddenNeuron3_Sigmoid: 0.9762256184440167
+hiddenNeuron4_Sigmoid: 1.121880799028072E-68
+hiddenNeuron5_Sigmoid: 0.9999851787539732
+output_Value: -0.9998403754611358
+output_Sigmoid: 0.26897280661667744
+output_Actual: 52989.43872787387
+ErrorRate[3]: 52989.169755067254
+
+
+********************************** -----> 5
+hiddenNeuron1_Value: -53.308031208859184
+hiddenNeuron2_Value: -285.21574630505194
+hiddenNeuron3_Value: 5.686145278687976
+hiddenNeuron4_Value: -239.47196172177829
+hiddenNeuron5_Value: 17.018914820311274
+hiddenNeuron1_Sigmoid: 7.056936423626752E-24
+hiddenNeuron2_Sigmoid: 1.3563607937437864E-124
+hiddenNeuron3_Sigmoid: 0.9966188256268272
+hiddenNeuron4_Sigmoid: 9.968927870119283E-105
+hiddenNeuron5_Sigmoid: 0.999999959376327
+output_Value: -0.9700162329790405
+output_Sigmoid: 0.2748772666449488
+output_Actual: 189992.67792305184
+ErrorRate[4]: 189992.4030457852
+
+
+********************************** -----> 6
+hiddenNeuron1_Value: -51.628956840598924
+hiddenNeuron2_Value: -276.2321384286191
+hiddenNeuron3_Value: 5.507045421215423
+hiddenNeuron4_Value: -231.9291726949493
+hiddenNeuron5_Value: 16.482860064538556
+hiddenNeuron1_Sigmoid: 3.7829355102855673E-23
+hiddenNeuron2_Sigmoid: 1.0812012923009833E-120
+hiddenNeuron3_Sigmoid: 0.9959583218476935
+hiddenNeuron4_Sigmoid: 1.8812222478810587E-101
+hiddenNeuron5_Sigmoid: 0.9999999305639834
+output_Value: -0.9709832828153706
+output_Sigmoid: 0.27468455647753603
+output_Actual: 172599.28207824068
+ErrorRate[5]: 172599.0073936842
+
+
+********************************** -----> 7
+hiddenNeuron1_Value: -13.34346682960711
+hiddenNeuron2_Value: -71.39199786223999
+hiddenNeuron3_Value: 1.4232919354540123
+hiddenNeuron4_Value: -59.941928174688535
+hiddenNeuron5_Value: 4.259983350182183
+hiddenNeuron1_Sigmoid: 1.603264919984666E-6
+hiddenNeuron2_Sigmoid: 9.882100729181333E-32
+hiddenNeuron3_Sigmoid: 0.8058539693559985
+hiddenNeuron4_Sigmoid: 9.28007228547359E-27
+hiddenNeuron5_Sigmoid: 0.9860741310610653
+output_Value: -1.215503264031638
+output_Sigmoid: 0.22872876055242622
+output_Actual: 2979.648092253266
+ErrorRate[6]: 2979.4193634927137
+
+
+********************************** -----> 8
+hiddenNeuron1_Value: -1.153060015414982
+hiddenNeuron2_Value: -6.169255651978463
+hiddenNeuron3_Value: 0.12299210107774858
+hiddenNeuron4_Value: -5.179811326974701
+hiddenNeuron5_Value: 0.3681214582502369
+hiddenNeuron1_Sigmoid: 0.239930602667483
+hiddenNeuron2_Sigmoid: 0.0020884225508804137
+hiddenNeuron3_Sigmoid: 0.5307093232191399
+hiddenNeuron4_Sigmoid: 0.005597559323455179
+hiddenNeuron5_Sigmoid: 0.5910049786495827
+output_Value: -0.03457208365151443
+output_Sigmoid: 0.4913578398499879
+output_Actual: 1.9227139239774576
+ErrorRate[7]: 1.4313560841274697
+
+
+********************************** -----> 9
+hiddenNeuron1_Value: 16.316558802864417
+hiddenNeuron2_Value: 87.29903150720452
+hiddenNeuron3_Value: -1.7404192519854969
+hiddenNeuron4_Value: 73.29774250641118
+hiddenNeuron5_Value: -5.209161136312996
+hiddenNeuron1_Sigmoid: 0.9999999180010083
+hiddenNeuron2_Sigmoid: 1.0
+hiddenNeuron3_Sigmoid: 0.1492596895672852
+hiddenNeuron4_Sigmoid: 1.0
+hiddenNeuron5_Sigmoid: 0.005436539685323841
+output_Value: 6.104597209836816
+output_Sigmoid: 0.9977723928617199
+output_Actual: -5448.094669319983
+ErrorRate[8]: -5449.092441712844
+
+
+********************************** -----> 10
+hiddenNeuron1_Value: 80.5214821848669
+hiddenNeuron2_Value: 430.81678527885816
+hiddenNeuron3_Value: -8.588890555056707
+hiddenNeuron4_Value: 361.7210552009796
+hiddenNeuron5_Value: -25.70697539251306
+hiddenNeuron1_Sigmoid: 1.0
+hiddenNeuron2_Sigmoid: 1.0
+hiddenNeuron3_Sigmoid: 1.8612786015260554E-4
+hiddenNeuron4_Sigmoid: 1.0
+hiddenNeuron5_Sigmoid: 6.8486100783037706E-12
+output_Value: 5.8995284900526705
+output_Sigmoid: 0.9972667543082304
+output_Actual: -654778.2059857153
+ErrorRate[9]: -654779.2032524695
+
+
+MSE for last weighs = -1196455.955526805
+****************************SET of weights = 6*********************************** -----> 
+********************************** -----> 1
+hiddenNeuron1_Value: -303.8442521360266
+hiddenNeuron2_Value: -364.73488709891876
+hiddenNeuron3_Value: -331.8512096819554
+hiddenNeuron4_Value: -207.69677907497064
+hiddenNeuron5_Value: 139.35006659109084
+hiddenNeuron1_Sigmoid: 1.1018384899959558E-132
+hiddenNeuron2_Sigmoid: 3.9595987213305625E-159
+hiddenNeuron3_Sigmoid: 7.565729716819725E-145
+hiddenNeuron4_Sigmoid: 6.286876638240812E-91
+hiddenNeuron5_Sigmoid: 1.0
+output_Value: -3.6757239053804702
+output_Sigmoid: 0.024705251348552653
+output_Actual: -745625.0463621821
+ErrorRate[0]: -745625.0710674335
+
+
+********************************** -----> 2
+hiddenNeuron1_Value: -43.54913450867415
+hiddenNeuron2_Value: -52.276416442348584
+hiddenNeuron3_Value: -47.563292264735125
+hiddenNeuron4_Value: -29.768590010730076
+hiddenNeuron5_Value: 19.972649642394096
+hiddenNeuron1_Sigmoid: 1.2213810884844812E-19
+hiddenNeuron2_Sigmoid: 1.9798888297009262E-23
+hiddenNeuron3_Sigmoid: 2.2055892089351587E-21
+hiddenNeuron4_Sigmoid: 1.1794122229027708E-13
+hiddenNeuron5_Sigmoid: 0.9999999978816951
+output_Value: -3.675723897593693
+output_Sigmoid: 0.02470525153617429
+output_Actual: -2195.361266179122
+ErrorRate[1]: -2195.385971430658
+
+
+********************************** -----> 3
+hiddenNeuron1_Value: -198.20304160839194
+hiddenNeuron2_Value: -237.92309216149084
+hiddenNeuron3_Value: -216.47248107540895
+hiddenNeuron4_Value: -135.48432479971981
+hiddenNeuron5_Value: 90.90054148637068
+hiddenNeuron1_Sigmoid: 8.346660194048318E-87
+hiddenNeuron2_Sigmoid: 4.691524157261672E-104
+hiddenNeuron3_Sigmoid: 9.709480302880318E-95
+hiddenNeuron4_Sigmoid: 1.4451248033409568E-59
+hiddenNeuron5_Sigmoid: 1.0
+output_Value: -3.6757239053804702
+output_Sigmoid: 0.024705251348552653
+output_Actual: -206965.69067031183
+ErrorRate[2]: -206965.7153755632
+
+
+********************************** -----> 4
+hiddenNeuron1_Value: 125.85601281609729
+hiddenNeuron2_Value: 151.0776600264557
+hiddenNeuron3_Value: 137.45683785412461
+hiddenNeuron4_Value: 86.03055119640435
+hiddenNeuron5_Value: -57.72050530335789
+hiddenNeuron1_Sigmoid: 1.0
+hiddenNeuron2_Sigmoid: 1.0
+hiddenNeuron3_Sigmoid: 1.0
+hiddenNeuron4_Sigmoid: 1.0
+hiddenNeuron5_Sigmoid: 8.556635933505706E-26
+output_Value: -1.0001663435215464
+output_Sigmoid: 0.26890871750569334
+output_Actual: 52989.43872787387
+ErrorRate[3]: 52989.16981915637
+
+
+********************************** -----> 5
+hiddenNeuron1_Value: 192.62965664254114
+hiddenNeuron2_Value: 231.2327963208167
+hiddenNeuron3_Value: 210.38536726648027
+hiddenNeuron4_Value: 131.67456339131954
+hiddenNeuron5_Value: -88.34445704287955
+hiddenNeuron1_Sigmoid: 1.0
+hiddenNeuron2_Sigmoid: 1.0
+hiddenNeuron3_Sigmoid: 1.0
+hiddenNeuron4_Sigmoid: 1.0
+hiddenNeuron5_Sigmoid: 4.2903211225862496E-39
+output_Value: -1.0001663435215464
+output_Sigmoid: 0.26890871750569334
+output_Actual: 189992.67792305184
+ErrorRate[4]: 189992.40901433435
+
+
+********************************** -----> 6
+hiddenNeuron1_Value: 186.56228721056868
+hiddenNeuron2_Value: 223.94952112571056
+hiddenNeuron3_Value: 203.75873578856778
+hiddenNeuron4_Value: 127.52713233208577
+hiddenNeuron5_Value: -85.56181979226737
+hiddenNeuron1_Sigmoid: 1.0
+hiddenNeuron2_Sigmoid: 1.0
+hiddenNeuron3_Sigmoid: 1.0
+hiddenNeuron4_Sigmoid: 1.0
+hiddenNeuron5_Sigmoid: 6.933839786535621E-38
+output_Value: -1.0001663435215464
+output_Sigmoid: 0.26890871750569334
+output_Actual: 172599.28207824068
+ErrorRate[5]: 172599.01316952318
+
+
+********************************** -----> 7
+hiddenNeuron1_Value: 48.21688919138308
+hiddenNeuron2_Value: 57.879592955429736
+hiddenNeuron3_Value: 52.661298980564354
+hiddenNeuron4_Value: 32.959295795997775
+hiddenNeuron5_Value: -22.11339089813182
+hiddenNeuron1_Sigmoid: 1.0
+hiddenNeuron2_Sigmoid: 1.0
+hiddenNeuron3_Sigmoid: 1.0
+hiddenNeuron4_Sigmoid: 0.9999999999999951
+hiddenNeuron5_Sigmoid: 2.490441568645176E-10
+output_Value: -1.0001663444369835
+output_Sigmoid: 0.2689087173257213
+output_Actual: 2979.648092253266
+ErrorRate[6]: 2979.3791835359402
+
+
+********************************** -----> 8
+hiddenNeuron1_Value: 4.166605853204318
+hiddenNeuron2_Value: 5.001597051024091
+hiddenNeuron3_Value: 4.550664305588896
+hiddenNeuron4_Value: 2.8481388385719213
+hiddenNeuron5_Value: -1.9109027043332614
+hiddenNeuron1_Sigmoid: 0.984731931818952
+hiddenNeuron2_Sigmoid: 0.9933177580010738
+hiddenNeuron3_Sigmoid: 0.98955016534457
+hiddenNeuron4_Sigmoid: 0.9452223972100974
+hiddenNeuron5_Sigmoid: 0.12887947197693558
+output_Value: -1.6446033795797936
+output_Sigmoid: 0.1618396528240203
+output_Actual: 1.9227139239774576
+ErrorRate[7]: 1.7608742711534373
+
+
+********************************** -----> 9
+hiddenNeuron1_Value: -58.96021759778037
+hiddenNeuron2_Value: -70.77589310205775
+hiddenNeuron3_Value: -64.39489769967842
+hiddenNeuron4_Value: -40.30304079320249
+hiddenNeuron5_Value: 27.0405320841734
+hiddenNeuron1_Sigmoid: 2.4768679040165684E-26
+hiddenNeuron2_Sigmoid: 1.829869734081558E-31
+hiddenNeuron3_Sigmoid: 1.0805659202796395E-28
+hiddenNeuron4_Sigmoid: 3.1377026144712206E-18
+hiddenNeuron5_Sigmoid: 0.9999999999981952
+output_Value: -3.6757239053738364
+output_Sigmoid: 0.024705251348712494
+output_Actual: -5448.094669319983
+ErrorRate[8]: -5448.119374571332
+
+
+********************************** -----> 10
+hiddenNeuron1_Value: -290.9660160745475
+hiddenNeuron2_Value: -349.2758420687894
+hiddenNeuron3_Value: -317.78591739642496
+hiddenNeuron4_Value: -198.89368956008687
+hiddenNeuron5_Value: 133.44380691980538
+hiddenNeuron1_Sigmoid: 4.315834649872108E-127
+hiddenNeuron2_Sigmoid: 2.0484677328982342E-152
+hiddenNeuron3_Sigmoid: 9.712469056545247E-139
+hiddenNeuron4_Sigmoid: 4.1837732485429625E-87
+hiddenNeuron5_Sigmoid: 1.0
+output_Value: -3.6757239053804702
+output_Sigmoid: 0.024705251348552653
+output_Actual: -654778.2059857153
+ErrorRate[9]: -654778.2306909666
+
+
+MSE for last weighs = -1196450.7904191443
+****************************SET of weights = 7*********************************** -----> 
+********************************** -----> 1
+hiddenNeuron1_Value: 198.7272036857444
+hiddenNeuron2_Value: -297.2376918538552
+hiddenNeuron3_Value: -196.77017463584633
+hiddenNeuron4_Value: 316.9920469251461
+hiddenNeuron5_Value: -430.8253499714823
+hiddenNeuron1_Sigmoid: 1.0
+hiddenNeuron2_Sigmoid: 8.152871817013999E-130
+hiddenNeuron3_Sigmoid: 3.497832047720245E-86
+hiddenNeuron4_Sigmoid: 1.0
+hiddenNeuron5_Sigmoid: 7.851051810350378E-188
+output_Value: -2.678321707665031
+output_Sigmoid: 0.06426472635656605
+output_Actual: -745625.0463621821
+ErrorRate[0]: -745625.1106269085
+
+
+********************************** -----> 2
+hiddenNeuron1_Value: 28.48300622112384
+hiddenNeuron2_Value: -42.60223496936957
+hiddenNeuron3_Value: -28.20251080041982
+hiddenNeuron4_Value: 45.43357062928069
+hiddenNeuron5_Value: -61.748974955942856
+hiddenNeuron1_Sigmoid: 0.9999999999995735
+hiddenNeuron2_Sigmoid: 3.1483603626212453E-19
+hiddenNeuron3_Sigmoid: 5.646836114079781E-13
+hiddenNeuron4_Sigmoid: 1.0
+hiddenNeuron5_Sigmoid: 1.5232139675664863E-27
+output_Value: -2.678321707668043
+output_Sigmoid: 0.06426472635638493
+output_Actual: -2195.361266179122
+ErrorRate[1]: -2195.4255309054784
+
+
+********************************** -----> 3
+hiddenNeuron1_Value: 129.6333103027119
+hiddenNeuron2_Value: -193.8934641413502
+hiddenNeuron3_Value: -128.35670524114198
+hiddenNeuron4_Value: 206.77958337058334
+hiddenNeuron5_Value: -281.03508348783726
+hiddenNeuron1_Sigmoid: 1.0
+hiddenNeuron2_Sigmoid: 6.210669891430527E-85
+hiddenNeuron3_Sigmoid: 1.8004920101509614E-56
+hiddenNeuron4_Sigmoid: 1.0
+hiddenNeuron5_Sigmoid: 8.871846519119464E-123
+output_Value: -2.678321707665031
+output_Sigmoid: 0.06426472635656605
+output_Actual: -206965.69067031183
+ErrorRate[2]: -206965.7549350382
+
+
+********************************** -----> 4
+hiddenNeuron1_Value: -82.31524314892472
+hiddenNeuron2_Value: 123.11949458447694
+hiddenNeuron3_Value: 81.50461773325887
+hiddenNeuron4_Value: -131.30199054267953
+hiddenNeuron5_Value: 178.4531396803784
+hiddenNeuron1_Sigmoid: 1.782149462273134E-36
+hiddenNeuron2_Sigmoid: 1.0
+hiddenNeuron3_Sigmoid: 1.0
+hiddenNeuron4_Sigmoid: 9.468257147965784E-58
+hiddenNeuron5_Sigmoid: 1.0
+output_Value: -12.389288126620677
+output_Sigmoid: 4.162926316367118E-6
+output_Actual: 52989.43872787387
+ErrorRate[3]: 52989.43872371095
+
+
+********************************** -----> 5
+hiddenNeuron1_Value: -125.98807692560707
+hiddenNeuron2_Value: 188.4412626551729
+hiddenNeuron3_Value: 124.74736945369949
+hiddenNeuron4_Value: -200.965029709598
+hiddenNeuron5_Value: 273.13249684498214
+hiddenNeuron1_Sigmoid: 1.92341680245187E-55
+hiddenNeuron2_Sigmoid: 1.0
+hiddenNeuron3_Sigmoid: 1.0
+hiddenNeuron4_Sigmoid: 5.27225662969131E-88
+hiddenNeuron5_Sigmoid: 1.0
+output_Value: -12.389288126620677
+output_Sigmoid: 4.162926316367118E-6
+output_Actual: 189992.67792305184
+ErrorRate[4]: 189992.67791888892
+
+
+********************************** -----> 6
+hiddenNeuron1_Value: -122.01975647041397
+hiddenNeuron2_Value: 182.50581752857974
+hiddenNeuron3_Value: 120.81812829045072
+hiddenNeuron4_Value: -194.63511613653833
+hiddenNeuron5_Value: 264.5294821736183
+hiddenNeuron1_Sigmoid: 1.01740315889347E-53
+hiddenNeuron2_Sigmoid: 1.0
+hiddenNeuron3_Sigmoid: 1.0
+hiddenNeuron4_Sigmoid: 2.958305883861341E-85
+hiddenNeuron5_Sigmoid: 1.0
+output_Value: -12.389288126620677
+output_Sigmoid: 4.162926316367118E-6
+output_Actual: 172599.28207824068
+ErrorRate[5]: 172599.28207407775
+
+
+********************************** -----> 7
+hiddenNeuron1_Value: -31.535918458445046
+hiddenNeuron2_Value: 47.168497514323995
+hiddenNeuron3_Value: 31.22535851801541
+hiddenNeuron4_Value: -50.303306031594396
+hiddenNeuron5_Value: 68.36745475479326
+hiddenNeuron1_Sigmoid: 2.014302221712354E-14
+hiddenNeuron2_Sigmoid: 1.0
+hiddenNeuron3_Sigmoid: 0.9999999999999725
+hiddenNeuron4_Sigmoid: 1.4241369972191437E-22
+hiddenNeuron5_Sigmoid: 1.0
+output_Value: -12.389288126620531
+output_Sigmoid: 4.162926316367725E-6
+output_Actual: 2979.648092253266
+ErrorRate[6]: 2979.6480880903396
+
+
+********************************** -----> 8
+hiddenNeuron1_Value: -2.725139357572109
+hiddenNeuron2_Value: 4.076010317670149
+hiddenNeuron3_Value: 2.698302685043758
+hiddenNeuron4_Value: -4.346901114147907
+hiddenNeuron5_Value: 5.907893311394109
+hiddenNeuron1_Sigmoid: 0.061506137047508326
+hiddenNeuron2_Sigmoid: 0.9833082869489947
+hiddenNeuron3_Sigmoid: 0.9369264149470846
+hiddenNeuron4_Sigmoid: 0.012781392314068104
+hiddenNeuron5_Sigmoid: 0.9972894603503646
+output_Value: -11.998134422117383
+output_Sigmoid: 6.155647666520786E-6
+output_Actual: 1.9227139239774576
+ErrorRate[7]: 1.922707768329791
+
+
+********************************** -----> 9
+hiddenNeuron1_Value: 38.562517110458224
+hiddenNeuron2_Value: -57.67823108965549
+hiddenNeuron3_Value: -38.182760515373744
+hiddenNeuron4_Value: 61.51151431064497
+hiddenNeuron5_Value: -83.6005822140304
+hiddenNeuron1_Sigmoid: 1.0
+hiddenNeuron2_Sigmoid: 8.926115699406733E-26
+hiddenNeuron3_Sigmoid: 2.6147959543024588E-17
+hiddenNeuron4_Sigmoid: 1.0
+hiddenNeuron5_Sigmoid: 4.928655470141065E-37
+output_Value: -2.678321707665031
+output_Sigmoid: 0.06426472635656605
+output_Actual: -5448.094669319983
+ErrorRate[8]: -5448.15893404634
+
+
+********************************** -----> 10
+hiddenNeuron1_Value: 190.3042836439431
+hiddenNeuron2_Value: -284.63947044550866
+hiddenNeuron3_Value: -188.43020196562304
+hiddenNeuron4_Value: 303.55655034683366
+hiddenNeuron5_Value: -412.5651047333455
+hiddenNeuron1_Sigmoid: 1.0
+hiddenNeuron2_Sigmoid: 2.4135075051147896E-124
+hiddenNeuron3_Sigmoid: 1.46488341615892E-82
+hiddenNeuron4_Sigmoid: 1.0
+hiddenNeuron5_Sigmoid: 6.687312039490679E-180
+output_Value: -2.678321707665031
+output_Sigmoid: 0.06426472635656605
+output_Actual: -654778.2059857153
+ErrorRate[9]: -654778.2702504416
+
+
+MSE for last weighs = -1196449.750764804
+****************************SET of weights = 8*********************************** -----> 
+********************************** -----> 1
+hiddenNeuron1_Value: -299.22174204646956
+hiddenNeuron2_Value: 444.0121998906758
+hiddenNeuron3_Value: -334.25054621923147
+hiddenNeuron4_Value: -175.35163455453693
+hiddenNeuron5_Value: -353.93582605792955
+hiddenNeuron1_Sigmoid: 1.1211108708874065E-130
+hiddenNeuron2_Sigmoid: 1.0
+hiddenNeuron3_Sigmoid: 6.868030321352829E-146
+hiddenNeuron4_Sigmoid: 7.010560156135604E-77
+hiddenNeuron5_Sigmoid: 1.9392053255559647E-154
+output_Value: -1.5609685046375574
+output_Sigmoid: 0.17350771683263283
+output_Actual: -745625.0463621821
+ErrorRate[0]: -745625.219869899
+
+
+********************************** -----> 2
+hiddenNeuron1_Value: -42.88660325378734
+hiddenNeuron2_Value: 63.63900873752502
+hiddenNeuron3_Value: -47.9071823625693
+hiddenNeuron4_Value: -25.132652225103445
+hiddenNeuron5_Value: -50.72861766539203
+hiddenNeuron1_Sigmoid: 2.3691080002510366E-19
+hiddenNeuron2_Sigmoid: 1.0
+hiddenNeuron3_Sigmoid: 1.5637778467365055E-21
+hiddenNeuron4_Sigmoid: 1.2162639179942536E-11
+hiddenNeuron5_Sigmoid: 9.30767634813939E-23
+output_Value: -1.560968504649707
+output_Sigmoid: 0.1735077168308905
+output_Actual: -2195.361266179122
+ErrorRate[1]: -2195.534773895953
+
+
+********************************** -----> 3
+hiddenNeuron1_Value: -195.18769557773697
+hiddenNeuron2_Value: 289.6371016100936
+hiddenNeuron3_Value: -218.03761122411865
+hiddenNeuron4_Value: -114.3850083566926
+hiddenNeuron5_Value: -230.8786714433378
+hiddenNeuron1_Sigmoid: 1.7023971171442036E-85
+hiddenNeuron2_Sigmoid: 1.0
+hiddenNeuron3_Sigmoid: 2.0298717430937275E-95
+hiddenNeuron4_Sigmoid: 2.1048543935037727E-50
+hiddenNeuron5_Sigmoid: 5.378572202387865E-101
+output_Value: -1.5609685046375574
+output_Sigmoid: 0.17350771683263283
+output_Actual: -206965.69067031183
+ErrorRate[2]: -206965.86417802866
+
+
+********************************** -----> 4
+hiddenNeuron1_Value: 123.94131248859732
+hiddenNeuron2_Value: -183.91529452045407
+hiddenNeuron3_Value: 138.45067245149707
+hiddenNeuron4_Value: 72.6327959494834
+hiddenNeuron5_Value: 146.60455660184954
+hiddenNeuron1_Sigmoid: 1.0
+hiddenNeuron2_Sigmoid: 1.3384509249194117E-80
+hiddenNeuron3_Sigmoid: 1.0
+hiddenNeuron4_Sigmoid: 1.0
+hiddenNeuron5_Sigmoid: 1.0
+output_Value: -1.8632578937053288
+output_Sigmoid: 0.1343237696410709
+output_Actual: 52989.43872787387
+ErrorRate[3]: 52989.30440410423
+
+
+********************************** -----> 5
+hiddenNeuron1_Value: 189.6991008557579
+hiddenNeuron2_Value: -281.4926298877285
+hiddenNeuron3_Value: 211.90648662317776
+hiddenNeuron4_Value: 111.16855072455645
+hiddenNeuron5_Value: 224.38646170772583
+hiddenNeuron1_Sigmoid: 1.0
+hiddenNeuron2_Sigmoid: 5.614410244561763E-123
+hiddenNeuron3_Sigmoid: 1.0
+hiddenNeuron4_Sigmoid: 1.0
+hiddenNeuron5_Sigmoid: 1.0
+output_Value: -1.8632578937053288
+output_Sigmoid: 0.1343237696410709
+output_Actual: 189992.67792305184
+ErrorRate[4]: 189992.54359928222
+
+
+********************************** -----> 6
+hiddenNeuron1_Value: 183.7240368605979
+hiddenNeuron2_Value: -272.626291195781
+hiddenNeuron3_Value: 205.23194355549208
+hiddenNeuron4_Value: 107.6670095900337
+hiddenNeuron5_Value: 217.31882953496907
+hiddenNeuron1_Sigmoid: 1.0
+hiddenNeuron2_Sigmoid: 3.98021114943298E-119
+hiddenNeuron3_Sigmoid: 1.0
+hiddenNeuron4_Sigmoid: 1.0
+hiddenNeuron5_Sigmoid: 1.0
+output_Value: -1.8632578937053288
+output_Sigmoid: 0.1343237696410709
+output_Actual: 172599.28207824068
+ErrorRate[5]: 172599.14775447105
+
+
+********************************** -----> 7
+hiddenNeuron1_Value: 47.483345426090985
+hiddenNeuron2_Value: -70.46006923364969
+hiddenNeuron3_Value: 53.042048470269634
+hiddenNeuron4_Value: 27.82646133144183
+hiddenNeuron5_Value: 56.16589547415815
+hiddenNeuron1_Sigmoid: 1.0
+hiddenNeuron2_Sigmoid: 2.5094626565410515E-31
+hiddenNeuron3_Sigmoid: 1.0
+hiddenNeuron4_Sigmoid: 0.9999999999991775
+hiddenNeuron5_Sigmoid: 1.0
+output_Value: -1.8632578937045072
+output_Sigmoid: 0.1343237696411664
+output_Actual: 2979.648092253266
+ErrorRate[6]: 2979.513768483625
+
+
+********************************** -----> 8
+hiddenNeuron1_Value: 4.103217530205791
+hiddenNeuron2_Value: -6.088724134002664
+hiddenNeuron3_Value: 4.583566325586779
+hiddenNeuron4_Value: 2.4045909763558395
+hiddenNeuron5_Value: 4.853509895758924
+hiddenNeuron1_Sigmoid: 0.9837490190617671
+hiddenNeuron2_Sigmoid: 0.002263167572124795
+hiddenNeuron3_Sigmoid: 0.9898849701765813
+hiddenNeuron4_Sigmoid: 0.9171767191327976
+hiddenNeuron5_Sigmoid: 0.9922594348295055
+output_Value: -1.76680327981301
+output_Sigmoid: 0.1459403229192157
+output_Actual: 1.9227139239774576
+ErrorRate[7]: 1.7767736010582418
+
+
+********************************** -----> 9
+hiddenNeuron1_Value: -58.063231069938446
+hiddenNeuron2_Value: 86.1594574772585
+hiddenNeuron3_Value: -64.86048295703839
+hiddenNeuron4_Value: -34.02654635320678
+hiddenNeuron5_Value: -68.6803623018128
+hiddenNeuron1_Sigmoid: 6.07378122625408E-26
+hiddenNeuron2_Sigmoid: 1.0
+hiddenNeuron3_Sigmoid: 6.783442658270276E-29
+hiddenNeuron4_Sigmoid: 1.6690090076577048E-15
+hiddenNeuron5_Sigmoid: 1.4876392805070287E-30
+output_Value: -1.5609685046375592
+output_Sigmoid: 0.17350771683263255
+output_Actual: -5448.094669319983
+ErrorRate[8]: -5448.268177036815
+
+
+********************************** -----> 10
+hiddenNeuron1_Value: -286.5394279934253
+hiddenNeuron2_Value: 425.1930388100546
+hiddenNeuron3_Value: -320.08355965414574
+hiddenNeuron4_Value: -167.91947242645898
+hiddenNeuron5_Value: -338.93449203056065
+hiddenNeuron1_Sigmoid: 3.610003099134454E-125
+hiddenNeuron2_Sigmoid: 1.0
+hiddenNeuron3_Sigmoid: 9.760595032591484E-140
+hiddenNeuron4_Sigmoid: 1.1844036063389343E-73
+hiddenNeuron5_Sigmoid: 6.347758335567038E-148
+output_Value: -1.5609685046375574
+output_Sigmoid: 0.17350771683263283
+output_Actual: -654778.2059857153
+ErrorRate[9]: -654778.3794934321
+
+
+MSE for last weighs = -1196450.9801923502
+****************************SET of weights = 9*********************************** -----> 
+********************************** -----> 1
+hiddenNeuron1_Value: -192.33631800681476
+hiddenNeuron2_Value: -332.51248433911985
+hiddenNeuron3_Value: -240.0308553622378
+hiddenNeuron4_Value: 28.15895229926924
+hiddenNeuron5_Value: 290.1557897750026
+hiddenNeuron1_Sigmoid: 2.947124074051111E-84
+hiddenNeuron2_Sigmoid: 3.905376310667359E-145
+hiddenNeuron3_Sigmoid: 5.70064543212973E-105
+hiddenNeuron4_Sigmoid: 0.9999999999994102
+hiddenNeuron5_Sigmoid: 1.0
+output_Value: -5.912081560946023
+output_Sigmoid: 0.0026992415522178207
+output_Actual: -745625.0463621821
+ErrorRate[0]: -745625.0490614236
+
+
+********************************** -----> 2
+hiddenNeuron1_Value: -27.56701871073096
+hiddenNeuron2_Value: -47.65807088499726
+hiddenNeuron3_Value: -34.40294141790277
+hiddenNeuron4_Value: 4.035942732776197
+hiddenNeuron5_Value: 41.587206039116374
+hiddenNeuron1_Sigmoid: 1.066094962926321E-12
+hiddenNeuron2_Sigmoid: 2.0061472023466138E-21
+hiddenNeuron3_Sigmoid: 1.1454928453398913E-15
+hiddenNeuron4_Sigmoid: 0.982637758605923
+hiddenNeuron5_Sigmoid: 1.0
+output_Value: -5.846091231837919
+output_Sigmoid: 0.002882843232084162
+output_Actual: -2195.361266179122
+ErrorRate[1]: -2195.364149022354
+
+
+********************************** -----> 3
+hiddenNeuron1_Value: -125.46442123790155
+hiddenNeuron2_Value: -216.90384236484303
+hiddenNeuron3_Value: -156.57642123623572
+hiddenNeuron4_Value: 18.368588363890353
+hiddenNeuron5_Value: 189.27381271620825
+hiddenNeuron1_Sigmoid: 3.247088915929821E-55
+hiddenNeuron2_Sigmoid: 6.307513044290876E-95
+hiddenNeuron3_Sigmoid: 9.99365288873778E-69
+hiddenNeuron4_Sigmoid: 0.9999999894652695
+hiddenNeuron5_Sigmoid: 1.0
+output_Value: -5.912081520907908
+output_Sigmoid: 0.002699241659998653
+output_Actual: -206965.69067031183
+ErrorRate[2]: -206965.69336955348
+
+
+********************************** -----> 4
+hiddenNeuron1_Value: 79.66805998103813
+hiddenNeuron2_Value: 137.73074592097785
+hiddenNeuron3_Value: 99.4237218455076
+hiddenNeuron4_Value: -11.663783127541661
+hiddenNeuron5_Value: -120.18608395540438
+hiddenNeuron1_Sigmoid: 1.0
+hiddenNeuron2_Sigmoid: 1.0
+hiddenNeuron3_Sigmoid: 1.0
+hiddenNeuron4_Sigmoid: 8.599627004581791E-6
+hiddenNeuron5_Sigmoid: 6.365711272926363E-53
+output_Value: 3.2542864500114113
+output_Sigmoid: 0.9628268350950931
+output_Actual: 52989.43872787387
+ErrorRate[3]: 52988.47590103878
+
+
+********************************** -----> 5
+hiddenNeuron1_Value: 121.9364152426248
+hiddenNeuron2_Value: 210.80459886049763
+hiddenNeuron3_Value: 152.17355907507397
+hiddenNeuron4_Value: -17.852071496134705
+hiddenNeuron5_Value: -183.95151385711188
+hiddenNeuron1_Sigmoid: 1.0
+hiddenNeuron2_Sigmoid: 1.0
+hiddenNeuron3_Sigmoid: 1.0
+hiddenNeuron4_Sigmoid: 1.7658095082833386E-8
+hiddenNeuron5_Sigmoid: 1.2908405333261596E-80
+output_Value: 3.254319068320297
+output_Sigmoid: 0.9628280025298233
+output_Actual: 189992.67792305184
+ErrorRate[4]: 189991.71509504932
+
+
+********************************** -----> 6
+hiddenNeuron1_Value: 118.09571235511308
+hiddenNeuron2_Value: 204.16476259884212
+hiddenNeuron3_Value: 147.3804591091643
+hiddenNeuron4_Value: -17.28977431520772
+hiddenNeuron5_Value: -178.15748498536433
+hiddenNeuron1_Sigmoid: 1.0
+hiddenNeuron2_Sigmoid: 1.0
+hiddenNeuron3_Sigmoid: 1.0
+hiddenNeuron4_Sigmoid: 3.0984636682554514E-8
+hiddenNeuron5_Sigmoid: 4.23825771351739E-78
+output_Value: 3.2543190176688377
+output_Sigmoid: 0.9628280007169953
+output_Actual: 172599.28207824068
+ErrorRate[5]: 172598.31925023996
+
+
+********************************** -----> 7
+hiddenNeuron1_Value: 30.52175207402454
+hiddenNeuron2_Value: 52.76623631818196
+hiddenNeuron3_Value: 38.09037384828532
+hiddenNeuron4_Value: -4.468529758961732
+hiddenNeuron5_Value: -46.04467409031731
+hiddenNeuron1_Sigmoid: 0.9999999999999445
+hiddenNeuron2_Sigmoid: 1.0
+hiddenNeuron3_Sigmoid: 1.0
+hiddenNeuron4_Sigmoid: 0.011334221233248778
+hiddenNeuron5_Sigmoid: 1.0070525222876329E-20
+output_Value: 3.2112400782788333
+output_Sigmoid: 0.9612550771366534
+output_Actual: 2979.648092253266
+ErrorRate[6]: 2978.6868371761293
+
+
+********************************** -----> 8
+hiddenNeuron1_Value: 2.6375013605068665
+hiddenNeuron2_Value: 4.559732342379941
+hiddenNeuron3_Value: 3.2915349224845722
+hiddenNeuron4_Value: -0.3861427512464864
+hiddenNeuron5_Value: -3.9788964363110995
+hiddenNeuron1_Sigmoid: 0.9332364521748071
+hiddenNeuron2_Sigmoid: 0.9896435195455624
+hiddenNeuron3_Sigmoid: 0.9641372643438643
+hiddenNeuron4_Sigmoid: 0.4046461986423233
+hiddenNeuron5_Sigmoid: 0.01836277250496318
+output_Value: 1.4735770364427123
+output_Sigmoid: 0.81360046921415
+output_Actual: 1.9227139239774576
+ErrorRate[7]: 1.1091134547633077
+
+
+********************************** -----> 9
+hiddenNeuron1_Value: -37.3223817199637
+hiddenNeuron2_Value: -64.52321639389172
+hiddenNeuron3_Value: -46.57738747021985
+hiddenNeuron4_Value: 5.464174303837609
+hiddenNeuron5_Value: 56.304005694111744
+hiddenNeuron1_Sigmoid: 6.181524110803764E-17
+hiddenNeuron2_Sigmoid: 9.504366294215338E-29
+hiddenNeuron3_Sigmoid: 5.9114992689489815E-21
+hiddenNeuron4_Sigmoid: 0.9957820295179893
+hiddenNeuron5_Sigmoid: 1.0
+output_Value: -5.896049917685058
+output_Sigmoid: 0.002742743917821356
+output_Actual: -5448.094669319983
+ErrorRate[8]: -5448.097412063901
+
+
+********************************** -----> 10
+hiddenNeuron1_Value: -184.18427139387248
+hiddenNeuron2_Value: -318.4191643681006
+hiddenNeuron3_Value: -229.8573075802321
+hiddenNeuron4_Value: 26.96545387892864
+hiddenNeuron5_Value: 277.85773006494253
+hiddenNeuron1_Sigmoid: 1.0227919007000914E-80
+hiddenNeuron2_Sigmoid: 5.1560127507770385E-139
+hiddenNeuron3_Sigmoid: 1.493618529607679E-100
+hiddenNeuron4_Sigmoid: 0.9999999999980544
+hiddenNeuron5_Sigmoid: 1.0
+output_Value: -5.9120815609408695
+output_Sigmoid: 0.0026992415522316933
+output_Actual: -654778.2059857153
+ErrorRate[9]: -654778.2086849568
+
+
+MSE for last weighs = -1196454.106480061
+****************************SET of weights = 10*********************************** -----> 
+********************************** -----> 1
+hiddenNeuron1_Value: 218.4577792354597
+hiddenNeuron2_Value: -323.23609839096287
+hiddenNeuron3_Value: -14.502629376596555
+hiddenNeuron4_Value: 388.58781850787994
+hiddenNeuron5_Value: 16.778655620558396
+hiddenNeuron1_Sigmoid: 1.0
+hiddenNeuron2_Sigmoid: 4.172017455930945E-141
+hiddenNeuron3_Sigmoid: 5.030230315024307E-7
+hiddenNeuron4_Sigmoid: 1.0
+hiddenNeuron5_Sigmoid: 0.9999999483438031
+output_Value: -0.8872857169440604
+output_Sigmoid: 0.2916702775978084
+output_Actual: -745625.0463621821
+ErrorRate[0]: -745625.3380324597
+
+
+********************************** -----> 2
+hiddenNeuron1_Value: 31.310933629681283
+hiddenNeuron2_Value: -46.32851280854627
+hiddenNeuron3_Value: -2.078620717722528
+hiddenNeuron4_Value: 55.69518941913666
+hiddenNeuron5_Value: 2.404837101105658
+hiddenNeuron1_Sigmoid: 0.9999999999999747
+hiddenNeuron2_Sigmoid: 7.581978218723623E-21
+hiddenNeuron3_Sigmoid: 0.11119220602563076
+hiddenNeuron4_Sigmoid: 1.0
+hiddenNeuron5_Sigmoid: 0.9171954137315451
+output_Value: -0.6895225366607604
+output_Sigmoid: 0.33413929576077644
+output_Actual: -2195.361266179122
+ErrorRate[1]: -2195.695405474883
+
+
+********************************** -----> 3
+hiddenNeuron1_Value: 142.5039177245926
+hiddenNeuron2_Value: -210.8526898512357
+hiddenNeuron3_Value: -9.460324602335403
+hiddenNeuron4_Value: 253.48278606156148
+hiddenNeuron5_Value: 10.945017240627612
+hiddenNeuron1_Sigmoid: 1.0
+hiddenNeuron2_Sigmoid: 2.67818333398064E-92
+hiddenNeuron3_Sigmoid: 7.787524143213962E-5
+hiddenNeuron4_Sigmoid: 1.0
+hiddenNeuron5_Sigmoid: 0.9999823545903729
+output_Value: -0.8872195231614498
+output_Sigmoid: 0.29168395333760067
+output_Actual: -206965.69067031183
+ErrorRate[2]: -206965.98235426517
+
+
+********************************** -----> 4
+hiddenNeuron1_Value: -90.48788933787499
+hiddenNeuron2_Value: 133.88835318005596
+hiddenNeuron3_Value: 6.007166816079543
+hiddenNeuron4_Value: -160.95783653137028
+hiddenNeuron5_Value: -6.949924778805772
+hiddenNeuron1_Sigmoid: 5.03047484322095E-40
+hiddenNeuron2_Sigmoid: 1.0
+hiddenNeuron3_Sigmoid: 0.9975449909799202
+hiddenNeuron4_Sigmoid: 1.249970533970705E-70
+hiddenNeuron5_Sigmoid: 9.57789026787906E-4
+output_Value: 5.352383117720864
+output_Sigmoid: 0.9952854828871087
+output_Actual: 52989.43872787387
+ErrorRate[3]: 52988.443442390984
+
+
+********************************** -----> 5
+hiddenNeuron1_Value: -138.49676835808432
+hiddenNeuron2_Value: 204.92360217382276
+hiddenNeuron3_Value: 9.19430431080577
+hiddenNeuron4_Value: -246.35495826702746
+hiddenNeuron5_Value: -10.637248025559678
+hiddenNeuron1_Sigmoid: 7.105877898321569E-61
+hiddenNeuron2_Sigmoid: 1.0
+hiddenNeuron3_Sigmoid: 0.9998983937919851
+hiddenNeuron4_Sigmoid: 1.0218826725033417E-107
+hiddenNeuron5_Sigmoid: 2.4004433145431932E-5
+output_Value: 5.35510782136951
+output_Sigmoid: 0.9952982507497862
+output_Actual: 189992.67792305184
+ErrorRate[4]: 189991.6826248011
+
+
+********************************** -----> 6
+hiddenNeuron1_Value: -134.13445430214352
+hiddenNeuron2_Value: 198.46900311887876
+hiddenNeuron3_Value: 8.904705907860189
+hiddenNeuron4_Value: -238.59537145543933
+hiddenNeuron5_Value: -10.302200376949912
+hiddenNeuron1_Sigmoid: 5.57373945194243E-59
+hiddenNeuron2_Sigmoid: 1.0
+hiddenNeuron3_Sigmoid: 0.9998642698245817
+hiddenNeuron4_Sigmoid: 2.3952275000675146E-104
+hiddenNeuron5_Sigmoid: 3.355804487844862E-5
+output_Value: 5.355075426174956
+output_Sigmoid: 0.9952980991494145
+output_Actual: 172599.28207824068
+ErrorRate[5]: 172598.28678014153
+
+
+********************************** -----> 7
+hiddenNeuron1_Value: -34.66695341558135
+hiddenNeuron2_Value: 51.29417136972755
+hiddenNeuron3_Value: 2.3014148489535997
+hiddenNeuron4_Value: -61.66480245849006
+hiddenNeuron5_Value: -2.6625962911901886
+hiddenNeuron1_Sigmoid: 8.79697640694254E-16
+hiddenNeuron2_Sigmoid: 1.0
+hiddenNeuron3_Sigmoid: 0.9089941483955962
+hiddenNeuron4_Sigmoid: 1.6569773222953603E-27
+hiddenNeuron5_Sigmoid: 0.06521687529620382
+output_Value: 5.1978947104132205
+output_Sigmoid: 0.9945022022535795
+output_Actual: 2979.648092253266
+ErrorRate[6]: 2978.6535900510125
+
+
+********************************** -----> 8
+hiddenNeuron1_Value: -2.995704066282576
+hiddenNeuron2_Value: 4.432525578663149
+hiddenNeuron3_Value: 0.19887406137381178
+hiddenNeuron4_Value: -5.328691484853188
+hiddenNeuron5_Value: -0.23008513153054624
+hiddenNeuron1_Sigmoid: 0.04762032687670544
+hiddenNeuron2_Sigmoid: 0.988255144334727
+hiddenNeuron3_Sigmoid: 0.5495552932339914
+hiddenNeuron4_Sigmoid: 0.004826999759143733
+hiddenNeuron5_Sigmoid: 0.4427311416241846
+output_Value: 4.288742674818455
+output_Sigmoid: 0.9864635813244617
+output_Actual: 1.9227139239774576
+ErrorRate[7]: 0.9362503426529959
+
+
+********************************** -----> 9
+hiddenNeuron1_Value: 42.39118597472839
+hiddenNeuron2_Value: -62.72315688913113
+hiddenNeuron3_Value: -2.814198977841084
+hiddenNeuron4_Value: 75.40449481602953
+hiddenNeuron5_Value: 3.255856181026128
+hiddenNeuron1_Sigmoid: 1.0
+hiddenNeuron2_Sigmoid: 5.750148696306749E-28
+hiddenNeuron3_Sigmoid: 0.05656169532058627
+hiddenNeuron4_Sigmoid: 1.0
+hiddenNeuron5_Sigmoid: 0.9628829770418604
+output_Value: -0.7956163471000771
+output_Sigmoid: 0.3109640047853491
+output_Actual: -5448.094669319983
+ErrorRate[8]: -5448.405633324768
+
+
+********************************** -----> 10
+hiddenNeuron1_Value: 209.19859190286127
+hiddenNeuron2_Value: -309.53595185402355
+hiddenNeuron3_Value: -13.887945099007066
+hiddenNeuron4_Value: 372.1177828821301
+hiddenNeuron5_Value: 16.067503487987928
+hiddenNeuron1_Sigmoid: 1.0
+hiddenNeuron2_Sigmoid: 3.717441638758171E-135
+hiddenNeuron3_Sigmoid: 9.301257646520992E-7
+hiddenNeuron4_Sigmoid: 1.0
+hiddenNeuron5_Sigmoid: 0.9999998948106306
+output_Value: -0.8872854293199102
+output_Sigmoid: 0.2916703370205952
+output_Actual: -654778.2059857153
+ErrorRate[9]: -654778.4976560522
+
+
+MSE for last weighs = -1196455.9163938495
+
+
+
+Mean squared error for last 10 attempts with different weights= [-1196452.501755176, -1196453.3740326015, -1196457.8975620922, -1196449.8219802899, -1196455.955526805, -1196450.7904191443, -1196449.750764804, -1196450.9801923502, -1196454.106480061, -1196455.9163938495]
+
+
+
+best weights where for index: 6
+
+
+repeating procedure (with same best weights for each time)
+********************************** -----> 1
+hiddenNeuron1_Value: 198.7272036857444
+hiddenNeuron2_Value: -297.2376918538552
+hiddenNeuron3_Value: -196.77017463584633
+hiddenNeuron4_Value: 316.9920469251461
+hiddenNeuron5_Value: -430.8253499714823
+hiddenNeuron1_Sigmoid: 1.0
+hiddenNeuron2_Sigmoid: 8.152871817013999E-130
+hiddenNeuron3_Sigmoid: 3.497832047720245E-86
+hiddenNeuron4_Sigmoid: 1.0
+hiddenNeuron5_Sigmoid: 7.851051810350378E-188
+output_Value: -2.678321707665031
+output_Sigmoid: 0.06426472635656605
+output_Actual: -745625.0463621821
+ErrorRate2[0]: -745625.1106269085
+
+
+********************************** -----> 2
+hiddenNeuron1_Value: 28.48300622112384
+hiddenNeuron2_Value: -42.60223496936957
+hiddenNeuron3_Value: -28.20251080041982
+hiddenNeuron4_Value: 45.43357062928069
+hiddenNeuron5_Value: -61.748974955942856
+hiddenNeuron1_Sigmoid: 0.9999999999995735
+hiddenNeuron2_Sigmoid: 3.1483603626212453E-19
+hiddenNeuron3_Sigmoid: 5.646836114079781E-13
+hiddenNeuron4_Sigmoid: 1.0
+hiddenNeuron5_Sigmoid: 1.5232139675664863E-27
+output_Value: -2.678321707668043
+output_Sigmoid: 0.06426472635638493
+output_Actual: -2195.361266179122
+ErrorRate2[1]: -2195.4255309054784
+
+
+********************************** -----> 3
+hiddenNeuron1_Value: 129.6333103027119
+hiddenNeuron2_Value: -193.8934641413502
+hiddenNeuron3_Value: -128.35670524114198
+hiddenNeuron4_Value: 206.77958337058334
+hiddenNeuron5_Value: -281.03508348783726
+hiddenNeuron1_Sigmoid: 1.0
+hiddenNeuron2_Sigmoid: 6.210669891430527E-85
+hiddenNeuron3_Sigmoid: 1.8004920101509614E-56
+hiddenNeuron4_Sigmoid: 1.0
+hiddenNeuron5_Sigmoid: 8.871846519119464E-123
+output_Value: -2.678321707665031
+output_Sigmoid: 0.06426472635656605
+output_Actual: -206965.69067031183
+ErrorRate2[2]: -206965.7549350382
+
+
+********************************** -----> 4
+hiddenNeuron1_Value: -82.31524314892472
+hiddenNeuron2_Value: 123.11949458447694
+hiddenNeuron3_Value: 81.50461773325887
+hiddenNeuron4_Value: -131.30199054267953
+hiddenNeuron5_Value: 178.4531396803784
+hiddenNeuron1_Sigmoid: 1.782149462273134E-36
+hiddenNeuron2_Sigmoid: 1.0
+hiddenNeuron3_Sigmoid: 1.0
+hiddenNeuron4_Sigmoid: 9.468257147965784E-58
+hiddenNeuron5_Sigmoid: 1.0
+output_Value: -12.389288126620677
+output_Sigmoid: 4.162926316367118E-6
+output_Actual: 52989.43872787387
+ErrorRate2[3]: 52989.43872371095
+
+
+********************************** -----> 5
+hiddenNeuron1_Value: -125.98807692560707
+hiddenNeuron2_Value: 188.4412626551729
+hiddenNeuron3_Value: 124.74736945369949
+hiddenNeuron4_Value: -200.965029709598
+hiddenNeuron5_Value: 273.13249684498214
+hiddenNeuron1_Sigmoid: 1.92341680245187E-55
+hiddenNeuron2_Sigmoid: 1.0
+hiddenNeuron3_Sigmoid: 1.0
+hiddenNeuron4_Sigmoid: 5.27225662969131E-88
+hiddenNeuron5_Sigmoid: 1.0
+output_Value: -12.389288126620677
+output_Sigmoid: 4.162926316367118E-6
+output_Actual: 189992.67792305184
+ErrorRate2[4]: 189992.67791888892
+
+
+********************************** -----> 6
+hiddenNeuron1_Value: -122.01975647041397
+hiddenNeuron2_Value: 182.50581752857974
+hiddenNeuron3_Value: 120.81812829045072
+hiddenNeuron4_Value: -194.63511613653833
+hiddenNeuron5_Value: 264.5294821736183
+hiddenNeuron1_Sigmoid: 1.01740315889347E-53
+hiddenNeuron2_Sigmoid: 1.0
+hiddenNeuron3_Sigmoid: 1.0
+hiddenNeuron4_Sigmoid: 2.958305883861341E-85
+hiddenNeuron5_Sigmoid: 1.0
+output_Value: -12.389288126620677
+output_Sigmoid: 4.162926316367118E-6
+output_Actual: 172599.28207824068
+ErrorRate2[5]: 172599.28207407775
+
+
+********************************** -----> 7
+hiddenNeuron1_Value: -31.535918458445046
+hiddenNeuron2_Value: 47.168497514323995
+hiddenNeuron3_Value: 31.22535851801541
+hiddenNeuron4_Value: -50.303306031594396
+hiddenNeuron5_Value: 68.36745475479326
+hiddenNeuron1_Sigmoid: 2.014302221712354E-14
+hiddenNeuron2_Sigmoid: 1.0
+hiddenNeuron3_Sigmoid: 0.9999999999999725
+hiddenNeuron4_Sigmoid: 1.4241369972191437E-22
+hiddenNeuron5_Sigmoid: 1.0
+output_Value: -12.389288126620531
+output_Sigmoid: 4.162926316367725E-6
+output_Actual: 2979.648092253266
+ErrorRate2[6]: 2979.6480880903396
+
+
+********************************** -----> 8
+hiddenNeuron1_Value: -2.725139357572109
+hiddenNeuron2_Value: 4.076010317670149
+hiddenNeuron3_Value: 2.698302685043758
+hiddenNeuron4_Value: -4.346901114147907
+hiddenNeuron5_Value: 5.907893311394109
+hiddenNeuron1_Sigmoid: 0.061506137047508326
+hiddenNeuron2_Sigmoid: 0.9833082869489947
+hiddenNeuron3_Sigmoid: 0.9369264149470846
+hiddenNeuron4_Sigmoid: 0.012781392314068104
+hiddenNeuron5_Sigmoid: 0.9972894603503646
+output_Value: -11.998134422117383
+output_Sigmoid: 6.155647666520786E-6
+output_Actual: 1.9227139239774576
+ErrorRate2[7]: 1.922707768329791
+
+
+********************************** -----> 9
+hiddenNeuron1_Value: 38.562517110458224
+hiddenNeuron2_Value: -57.67823108965549
+hiddenNeuron3_Value: -38.182760515373744
+hiddenNeuron4_Value: 61.51151431064497
+hiddenNeuron5_Value: -83.6005822140304
+hiddenNeuron1_Sigmoid: 1.0
+hiddenNeuron2_Sigmoid: 8.926115699406733E-26
+hiddenNeuron3_Sigmoid: 2.6147959543024588E-17
+hiddenNeuron4_Sigmoid: 1.0
+hiddenNeuron5_Sigmoid: 4.928655470141065E-37
+output_Value: -2.678321707665031
+output_Sigmoid: 0.06426472635656605
+output_Actual: -5448.094669319983
+ErrorRate2[8]: -5448.15893404634
+
+
+********************************** -----> 10
+hiddenNeuron1_Value: 190.3042836439431
+hiddenNeuron2_Value: -284.63947044550866
+hiddenNeuron3_Value: -188.43020196562304
+hiddenNeuron4_Value: 303.55655034683366
+hiddenNeuron5_Value: -412.5651047333455
+hiddenNeuron1_Sigmoid: 1.0
+hiddenNeuron2_Sigmoid: 2.4135075051147896E-124
+hiddenNeuron3_Sigmoid: 1.46488341615892E-82
+hiddenNeuron4_Sigmoid: 1.0
+hiddenNeuron5_Sigmoid: 6.687312039490679E-180
+output_Value: -2.678321707665031
+output_Sigmoid: 0.06426472635656605
+output_Actual: -654778.2059857153
+ErrorRate2[9]: -654778.2702504416
+
+
+
+
+
+Mean squared error for last 10 attempts with same weights= -1196449.750764804
